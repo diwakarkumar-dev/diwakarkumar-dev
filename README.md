@@ -1,36 +1,25 @@
-### Hi there 👋 I'm Diwakar Kumar
+# 👋 Hi, I’m Diwakar Kumar
 
-🎓 B.Tech CSE Student at Quantum University, Roorkee  
-💻 Aspiring Software Engineer | Focused on Java and DSA  
-🚀 Passionate about building projects, solving problems & growing daily
+🚀 Aspiring Software Engineer | Java & DSA Learner | Placement-Ready by Dec 2025
 
----
+## 🔥 Current Mission:
+I’m on a 25-day transformation journey (Java + DSA + Profile)
 
-### 🧠 Currently Learning:
-- Core Java & Object-Oriented Programming
-- Data Structures & Algorithms using Java
+- 📚 Learning Java (Complete Core Concepts)
+- 💻 Mastering Data Structures and Algorithms
+- 🧑‍💼 Building strong GitHub, LinkedIn & Resume
 
----
+## 📌 Skills I’m Building:
+- Java (OOPs, Exception Handling, File I/O, etc.)
+- DSA (Arrays, Strings, Recursion, Sorting)
+- Git, GitHub & Version Control
+- Resume + LinkedIn Optimization
 
-### 🤝 I’m looking to collaborate on:
-- Beginner to Intermediate Java Projects
-- Open Source Contributions
-- DSA Sheets & Practice Challenges
-
----
-
-### 💬 Ask me about:
-- Java Basics to OOPs
-- DSA with Java
+## 📫 Connect with Me:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diwakar-kumar-2a6b70303/)
+- 📧 [Email](mailto:kumardiwakar628060@gmail.com)
+- 🖥 [GitHub](https://github.com/diwakarkumar-dev)
 
 ---
 
-### 📫 How to reach me:
-- ✉ Email: kumardiwakar628060@gmail.com  
-- 🔗 LinkedIn: [diwakar-kumar](https://www.linkedin.com/in/diwakar-kumar-2a6b70303)
-
----
-
-### ⚡ Fun fact:
-Code. Eat. Sleep. Repeat. ☕  
-“Work in Progress 💪 | Placement Ready Soon 🎯”
+"Consistency is more important than motivation." 💪
